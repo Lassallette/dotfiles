@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = antoine_lassallette@msn.com
+	name = Antoine Lassallette
